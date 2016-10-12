@@ -9,6 +9,7 @@
  * General goal: utilize event patterns and find out root causes
 3. Volkswagen's Daniel Leimer explained how deep learning leap frogs classical approaches for **visual defect detection** at [Munich's Datageek Day](http://munich-datageeks.de/dadada/)
  * slides to be received
+4. Bosch Kaggle challenge: [**Reduce manufacturing failures**](https://www.kaggle.com/c/bosch-production-line-performance)
 
 ## Quick data exploration & vizualation tools
 1. [Caravel](https://github.com/airbnb/caravel) is a data exploration platform designed to be visual, intuitive, and interactive
